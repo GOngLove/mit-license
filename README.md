@@ -5,8 +5,6 @@ Hosted MIT License with details controlled through this repo
 Updateing
 Dear : Teacher 
 # Log sever checking localtion.
-Advanced : 
-User : Gong
-Password : xsmn
-I'm dont have localtion.I updating reset localtion.
-Thanks sir.
+Advanced : VNPT
+192.168.1.1
+#https://whatismyipaddress.com/45.55.21.112
