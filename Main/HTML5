@@ -1,0 +1,219 @@
+HTML5
+#https:-xoso.com.vn-xo-so-mien-nam.html
+<!DOCTYPE html>
+#HTML
+<html lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>404 Page Not Found</title>
+    <meta http-equiv="content-type" content="text/html
+    <!-- Bengin header -->
+    <header class="header">
+        <div class="header-content headermobi">
+            <div class="main-content">
+                <span class="btn-pushbar-3" data-pushbar-target="left"><img alt="icon-menu" class="icon-menu" src="/images/ic_menu_24px.svg"></span>
+                <div class="header-logo"><a href="/"><img alt="xsmb" class="header-logo-img" src="/images/logo.svg"></a></div>
+                <div class="header-right">
+                    <div class="header-time">Hôm nay: Thứ 3 ngày 04/08/2020</div>
+                    <a class="btn-calendar" href="/kqxs-13-04-2020.html"><img alt="calendar" class="icon-calendar" src="/images/ic_event_24px.svg"></a>
+                </div>
+            </div>
+        </div>
+        <nav class="nav_header">
+            <span class="nav-scrol-link-ic" data-pushbar-target="left"><img alt="icon-menu2" class="icon-menu2" src="/images/menu1.svg"></span>
+            <ul class="menu_ul">
+                <li class="menu_li hide">
+                    <a href="/" class="menu_a" title="Trang chủ"> <img alt="home" class="icon-home" src="/images/imghome.png"></a>
+                </li>
+                <li class="menu_li">
+                    <a href="/xo-so-mien-bac/xsmb-p1.html" class="menu_a " title="XSMB">XSMB</a>
+                    <ul class="menu_down">
+                        <li><a href="/xsmb-thu-2.html" title="Thứ 2">Thứ 2</a></li>
+                        <li><a href="/xsmb-thu-3.html" title="Thứ 3">Thứ 3</a></li>
+                        <li><a href="/xsmb-thu-4.html" title="Thứ 4">Thứ 4</a></li>
+                        <li><a href="/xsmb-thu-5.html" title="Thứ 5">Thứ 5</a></li>
+                        <li><a href="/xsmb-thu-6.html" title="Thứ 6">Thứ 6</a></li>
+                        <li><a href="/xsmb-thu-7.html" title="Thứ 7">Thứ 7</a></li>
+                        <li><a href="/xsmb-chu-nhat-cn.html" title="Chủ nhật">Chủ nhật</a></li>
+                    </ul>
+                </li>
+                <li class="menu_li">
+                    <a href="/xo-so-mien-nam/xsmn-p1.html" class="menu_a " title="XSMN">XSMN</a>
+                    <ul class="menu_down">
+                        <li><a href="/xsmn-thu-2.html" title="Thứ 2">Thứ 2</a></li>
+                        <li><a href="/xsmn-thu-3.html" title="Thứ 3">Thứ 3</a></li>
+                        <li><a href="/xsmn-thu-4.html" title="Thứ 4">Thứ 4</a></li>
+                        <li><a href="/xsmn-thu-5.html" title="Thứ 5">Thứ 5</a></li>
+                        <li><a href="/xsmn-thu-6.html" title="Thứ 6">Thứ 6</a></li>
+                        <li><a href="/xsmn-thu-7.html" title="Thứ 7">Thứ 7</a></li>
+                        <li><a href="/xsmn-chu-nhat-cn.html" title="Chủ nhật">Chủ nhật</a></li>
+                        <li><a href="/tuong-thuat-mien-nam/xsmn-tructiep.html" title="Trực tiếp">Trực tiếp</a></li>
+                    </ul>
+                </li>
+                <li class="menu_li">
+                    <a href="/xo-so-mien-trung/xsmt-p1.html" class="menu_a " title="XSMT">XSMT</a>
+                    <ul class="menu_down">
+                        <li><a href="/xsmt-thu-2.html" title="Thứ 2">Thứ 2</a></li>
+                        <li><a href="/xsmt-thu-3.html" title="Thứ 3">Thứ 3</a></li>
+                        <li><a href="/xsmt-thu-4.html" title="Thứ 4">Thứ 4</a></li>
+                        <li><a href="/xsmt-thu-5.html" title="Thứ 5">Thứ 5</a></li>
+                        <li><a href="/xsmt-thu-6.html" title="Thứ 6">Thứ 6</a></li>
+                        <li><a href="/xsmt-thu-7.html" title="Thứ 7">Thứ 7</a></li>
+                        <li><a href="/xsmt-chu-nhat-cn.html" title="Chủ nhật">Chủ nhật</a></li>
+                        <li><a href="/tuong-thuat-mien-trung/xsmt-tructiep.html" title="Trực tiếp">
+                                            <th>Miền Nam</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+<a href="/xo-so-mien-nam/xsmb-p1.html">
+                                          XS Miền Nam
+                                </a>
+                            </td>
+                                  <a title="TPHCM" href="/xo-so-tphcm/xshcm-p1.html">
+                                     TPHCM
+                            </a>
+                            </td>
+                            <td>
+                            <a title="Đồng Tháp" href="/xo-so-dong-thap/xsdt-p1.html">
+                                     Đồng Tháp
+                               </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
+                            <td>
+                            <a title="Cà Mau" href="/xo-so-ca-mau/xscm-p1.html">
+                               Cà Mau
+                            </a>
+                            </td>
+                            <td>
+                            <a title="Bến Tre" href="/xo-so-ben-tre/xsbtre-p1.html">
+                               Bến Tre
+                        </a>
+                        </td>
+                        <td>
+                          <a title="Vũng Tàu" href="/xo-so-vung-tau/xsvt-p1.html">
+                             Vũng Tàu
+                            </td>
+                            </tr>
+                            <tr>
+                          <a title="Bạc Liêu" href="/xo-so-bac-lieu/xsbl-p1.html">
+                             Bạc Liêu
+                          </td>
+                          <td>
+                          </tr>
+                                  <a title="Đồng Nai" href="/xo-so-dong-nai/xsdnai-p1.html">
+                                     Đồng Nai
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
+                            <td>
+                                   <a title="Cần Thơ" href="/xo-so-can-tho/xsct-p1.html">
+                                             Cần Thơ
+                                </a>
+                            </td>
+                            <td>
+                                <a title="Sóc Trăng" href="/xo-so-soc-trang/xsst-p1.html">
+                                          Sóc Trăng
+                                </a>
+                            </td>
+                            <td>
+                                <a title="Tây Ninh" href="/xo-so-tay-ninh/xstn-p1.html">
+                                   Tây Ninh
+                                </a>
+                            </td>
+                                <a title="An Giang" href="/xo-so-binh-thuan/xsbth-p1.html">
+                                   An Giang
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            </td>
+                            <td>
+                                 <a title="Bình Thuận" href="/xo-so-binh-thuan/xsbth-p1.html">
+                                    Bình Thuận  
+                                 </a>
+                            </td>
+                            <td>
+                                <a title="Vĩnh Long" href="/xo-so-vinh-long/xsvl-p1.html">
+                                   Vĩnh Long
+                                </a>
+                            </td>
+                            </tr>
+                            <tr>
+                                <a title="Bình Dương" href="/xo-so-binh-duong/xsbd-p1.html">
+                                   Bình Dương
+                                </a>
+                            </td>
+                            </tr>
+                            <tr>            
+                                <a title="Trà Vinh" href="/xo-so-tra-vinh/xstv-p1.html">
+                                   Trà Vinh
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                                <a title="TPHCM" href="/xo-so-tphcm/xshcm-p1.html">
+                                   TPHCM
+                                </a>
+                           </td>
+                           </tr>
+                           <tr>
+                                <a title="Long An" href="/xo-so-long-an/xsla-p1.html">
+                                   Long An
+                                </a>
+                            </td>
+                            </tr>
+                            
+                                <a title="Bình Phước" href="/xo-so-binh-phuoc/xsbp-p1.html">
+                                   Bình Phước
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
+                            <td>
+                            </td>
+                            <td>
+                                <a title="Hậu Giang" href="/xo-so-hau-giang/xshg-p1.html">
+                                    Hậu Giang
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
+                            <td>
+                            </td>
+                            <td>
+                                <a title="Kiên Giang" href="/xo-so-kien-giang/xskg-p1.html">
+                                   Kiên Giang
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                                <a title="Tiền Giang" href="/xo-so-tien-giang/xstg-p1.html">
+                                   Tiền Giang
+                                </a>
+                            </td>
+                            </tr>
+                            <tr>
+                                <a title="Đà Lạt" href="/xo-so-da-lat/xsdl-p1.html">
+                                    Đà Lạt
+                                </a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+    <!-- End main -->
+</body>
+</html>
