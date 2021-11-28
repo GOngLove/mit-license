@@ -1,10 +1,25 @@
 # mit-license
-Date : 14 August 2020
-Hosted MIT License with details controlled through this repo
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
-Updateing
-Dear : Teacher 
-# Log sever checking localtion.
-Advanced : VNPT
-192.168.1.1
-#https://whatismyipaddress.com/45.55.21.112
+# https:-xoso.com.vn/xo-so-mien-nam.p1-html
+Date: Monday,29 November 2021
+TIME: GMT+7
+From: Vietnames
+            </a>
+                <a title="TPHCM" href="/xo-so-tphcm/xshcm-p1.html">
+                   TPHCM
+             </td>
+             </tr>
+             <tr>
+             </a>
+                 <a title="Đồng Tháp" href="/xo-so-dong-thap/xsdt-p1.html">
+                    Đồng Tháp
+             </td>
+             </tr>
+             <tr>
+             </a>
+                 <a title="Cà Mau" href="/xo-so-ca-mau/xscmau-p1.html">
+                    Cà Mau
+             </td>
+             </tr>
+             <tr>
+       TPHCM      Đồng Tháp     Cà Mau
+ #Bug repostory number 75     
