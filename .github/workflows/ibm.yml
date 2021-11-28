@@ -1,14 +1,14 @@
 # This workflow will build a docker container, publish it to IBM Container Registry, and deploy it to IKS when a release is created
-#
+# http://github.com/GOngLove/https-xoso.com.vn/xo-so-mien-nam-p1.html
 # To configure this workflow:
-#
+# http://github.com/LionPhong/mit-licence
 # 1. Ensure that your repository contains a Dockerfile
 # 2. Setup secrets in your repository by going to settings: Create ICR_NAMESPACE and IBM_CLOUD_API_KEY
 # 3. Change the values for the IBM_CLOUD_REGION, REGISTRY_HOSTNAME, IMAGE_NAME, IKS_CLUSTER, DEPLOYMENT_NAME, and PORT
 
 name: Build and Deploy to IKS
 
-on:
+on: 'http://github.com/GOngLove/ibm.yml
   release:
     types: [created]
 
@@ -23,7 +23,7 @@ env:
   IKS_CLUSTER: example-iks-cluster-name-or-id
   DEPLOYMENT_NAME: iks-test
   PORT: 5001
-
+#http://whatismyipaddress.com/ip/2401:d800:609:221c:893f:6059:a5cd:69c2
 jobs:
   setup-build-publish-deploy:
     name: Setup, Build, Publish, and Deploy
