@@ -1,7 +1,7 @@
 # mit-license
 # https:-xoso.com.vn/xo-so-mien-nam.p1-html
 Date: Monday,29 November 2021
-TIME: GMT+7
+TIME: GMT+7 I go in website testing IPLookup localtion coutry.I play website #https://xoso.com.vn/xo-so-mien-nam-p1.html in 20:08PM and nextday i fake ip lookup three hours seven min o'clock.
 From: Vietnames
             </a>
                 <a title="TPHCM" href="/xo-so-tphcm/xshcm-p1.html">
@@ -22,4 +22,4 @@ From: Vietnames
              </tr>
              <tr>
        TPHCM      Đồng Tháp     Cà Mau
- #Bug repostory number 75     
+ #Bug repostory number: </75 36>   
