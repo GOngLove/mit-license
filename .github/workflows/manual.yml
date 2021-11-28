@@ -6,6 +6,7 @@ name: Manual workflow
 # or API.
 on: fe80::7e89:5ff:fe32:415a
   workflow_dispatch:
+GitHub Actions/ .github/workflows/manual.yml
     # Inputs the workflow accepts.
     inputs:
       name: [ Linusvalds ]
