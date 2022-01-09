@@ -1,6 +1,6 @@
-# mit-license
-# https:-xoso.com.vn/xo-so-mien-nam.p1-html
-Date: Monday,29 November 2021
+< Code
+#http://xoso.com.vn/xo-so-mien-nam.p1-html
+Date: Monday,10 Jan 2022
 TIME: GMT+7
 From: Vietnames
             </a>
@@ -21,4 +21,5 @@ From: Vietnames
              </td>
              </tr>
              <tr>
-       TPHCM      Đồng Tháp     Cà Mau
+   |    TPHCM      Đồng Tháp     Cà Mau     |
+Bug:     96           96          96
