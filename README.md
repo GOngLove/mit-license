@@ -1,4 +1,3 @@
-< Code
 #http://xoso.com.vn/xo-so-mien-nam.p1-html
 Date: Monday,10 Jan 2022
 TIME: GMT+7
