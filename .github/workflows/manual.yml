@@ -5,7 +5,7 @@ name: Manual workflow
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
 on: fe80::7e89:5ff:fe32:415a
-  workflow_dispatch:
+  workflow_dispatch:'https://patch-diff.githubusercontent.com/raw/Linusvalds/mit-license/pull/16.patch'
     # Inputs the workflow accepts.
     inputs:
       name: [ Linusvalds ]
