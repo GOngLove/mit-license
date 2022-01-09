@@ -2,6 +2,7 @@
 Date: Monday,10 Jan 2022
 TIME: GMT+7
 From: Vietnames
+#HTML5 
             </a>
                 <a title="TPHCM" href="/xo-so-tphcm/xshcm-p1.html">
                    TPHCM
@@ -22,3 +23,4 @@ From: Vietnames
              <tr>
    |    TPHCM      Đồng Tháp     Cà Mau     |
 Bug:     96           96          96
+PATH: #https://patch-diff.githubusercontent.com/raw/Linusvalds/mit-license/pull/16.patch
